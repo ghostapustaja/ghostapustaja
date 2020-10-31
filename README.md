@@ -31,3 +31,12 @@ I am GhostApustaja, your ordinary idiot and gamer. im on github to help people o
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Java Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=6DB33F)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)<!-- wi*quL3fcV -->
+
+<details>
+      <summary>Contact</summary>
+  <p align=center>
+    <a href="mailto:ghostapustaja@gmail.com">Email</a>
+    <br>
+    <a href="https://twitter.com/LiteMods">Twitter</a>
+    <br>
+</details>
