@@ -40,3 +40,34 @@ I am GhostApustaja, your ordinary idiot and gamer. im on github to help people o
     <a href="https://twitter.com/LiteMods">Twitter</a>
     <br>
 </details>
+
+<!--START_SECTION:top-followers-->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/peterkruse">
+        <img src="https://avatars2.githubusercontent.com/u/28764957?s=460&u=a5fa43994b6ac8e3810c20727d1fb189c0c45b48&v=4" width="100px;" alt="deni"/>
+      </a>
+      <br />
+      <a href="https://github.com/peterkruse">bash0x0</a>
+    </td>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Luckytrang2010">
+        <img src="https://avatars2.githubusercontent.com/u/53712708" width="100px;" alt="Luckytrang2010"/>
+      </a>
+      <br />
+      <a href="https://github.com/Luckytrang2010">Luckytrang2010</a>
+    </td>
+    <td align="center">
+          </td>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/pr0xy13377">
+        <img src="https://avatars2.githubusercontent.com/u/69159923" width="100px;" alt="pr0xy13377"/>
+      </a>
+      <br />
+      <a href="https://github.com/pr0xy13377">pr0xy13377</a>
+    </td>
+  </tr>
+</table>
