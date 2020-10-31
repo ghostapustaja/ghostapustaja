@@ -3,10 +3,9 @@
 I am GhostApustaja, your ordinary idiot and gamer. im on github to help people out and to learn.
 
 <p align="center">
-    <img src="https://img.shields.io/twitter/follow/bash0x00?label=Follow" alt="Twitter followers" />
-    <img src="https://komarev.com/ghpvc/?username=peterkruse" alt="akshit-wtf" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-100,000%20lines%20of%20code-yellow" alt="Lines of code" />
-    <img src="https://img.shields.io/github/followers/peterkruse?label=Follow&style=social" alt="github followers" />
+    <img src="https://img.shields.io/twitter/follow/LiteMods?label=Follow" alt="Twitter followers" />
+    <img src="https://komarev.com/ghpvc/?username=ghostapustaja" alt="akshit-wtf" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/ghostapustaja?label=Follow&style=social" alt="github followers" />
 </p>
 
 **Languages**
