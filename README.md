@@ -41,6 +41,8 @@ I am GhostApustaja, your ordinary idiot and gamer. im on github to help people o
     <br>
 </details>
 
+# Cool Dudes
+
 <!--START_SECTION:top-followers-->
 <table>
   <tr>
