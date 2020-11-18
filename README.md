@@ -41,6 +41,9 @@ I am GhostApustaja, your ordinary idiot and gamer. im on github to help people o
     <br>
 </details>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ghostapustaja)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 # Cool Dudes
 
 <!--START_SECTION:top-followers-->
