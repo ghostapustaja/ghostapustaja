@@ -8,6 +8,9 @@ I am GhostApustaja, your ordinary idiot and gamer. im on github to help people o
     <img src="https://img.shields.io/github/followers/ghostapustaja?label=Follow&style=social" alt="github followers" />
 </p>
 
+[![GhostApustaja's github stats](https://github-readme-stats.vercel.app/api?username=ghostapustaja)](https://github.com/anuraghazra/github-readme-stats)
+
+
 **Languages**
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
@@ -42,6 +45,7 @@ I am GhostApustaja, your ordinary idiot and gamer. im on github to help people o
 </details>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ghostapustaja)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 # Cool Dudes
