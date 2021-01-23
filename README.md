@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am GhostApustaja, your ordinary idiot and gamer. im on github to help people out and to learn.
+I am GhostApustaja. I don't that much make new repositories in here. I do make when I have time. I currently have no project ideas and not really sure if I should update my OS or anything. 
 
 <p align="center">
     <img src="https://img.shields.io/twitter/follow/LiteMods?label=Follow" alt="Twitter followers" />
