@@ -3,7 +3,6 @@
 I am GhostApustaja. I don't that much make new repositories in here. I do make when I have time. I currently have no project ideas and not really sure if I should update my OS or anything. 
 
 <p align="center">
-    <img src="https://img.shields.io/twitter/follow/LiteMods?label=Follow" alt="Twitter followers" />
     <img src="https://komarev.com/ghpvc/?username=ghostapustaja" alt="akshit-wtf" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/ghostapustaja?label=Follow&style=social" alt="github followers" />
 </p>
