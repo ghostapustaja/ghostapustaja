@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am GhostApustaja. I don't that much make new repositories in here. I do make when I have time. I currently have no project ideas and not really sure if I should update my OS or anything. 
+I used to make a lot of stuff but now I don't.
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ghostapustaja" alt="akshit-wtf" alt="Profile Views" />
@@ -37,10 +37,7 @@ I am GhostApustaja. I don't that much make new repositories in here. I do make w
 <details>
       <summary>Contact</summary>
   <p align=center>
-    <a href="mailto:ghostapustaja@gmail.com">Email</a>
-    <br>
     <a href="https://twitter.com/LiteMods">Twitter</a>
-    <br>
 </details>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ghostapustaja)](https://github.com/ryo-ma/github-profile-trophy)
@@ -69,13 +66,5 @@ I am GhostApustaja. I don't that much make new repositories in here. I do make w
     </td>
     <td align="center">
           </td>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/pr0xy13377">
-        <img src="https://avatars2.githubusercontent.com/u/69159923" width="100px;" alt="pr0xy13377"/>
-      </a>
-      <br />
-      <a href="https://github.com/pr0xy13377">pr0xy13377</a>
-    </td>
   </tr>
 </table>
